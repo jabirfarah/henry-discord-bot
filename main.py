@@ -8,6 +8,7 @@ import os
 import discord
 import random
 import asyncio
+from discord.ext import commands
 
 guessCapital_channel_id = 1101662911031685152
 funfacts_channel_id = 1102037939900395571
